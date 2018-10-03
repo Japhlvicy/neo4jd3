@@ -347,6 +347,24 @@
                     "startNode": "8",
                     "endNode": "25",
                     "properties": {}
+                }, {
+                    "id": "27",
+                    "type": "ANOTHER_RELATION",
+                    "startNode": "8",
+                    "endNode": "24",
+                    "properties": {}
+                }, {
+                    "id": "28",
+                    "type": "YET_ANOTHER_RELATION",
+                    "startNode": "8",
+                    "endNode": "24",
+                    "properties": {}
+                }, {
+                    "id": "29",
+                    "type": "A_RELATION",
+                    "startNode": "8",
+                    "endNode": "24",
+                    "properties": {}
                 }]
             }
         }]
